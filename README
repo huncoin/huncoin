@@ -1,27 +1,27 @@
-?? ???? http://www.huncoin.org
+공식 웹사이트 http://www.huncoin.org
 
-???? Pure PoW ? ???? X13 ????? ????
-???? ??? ?? ?????.
+훈코인은 Pure PoW 기반의 X13 알고리즘을 사용하는
+대한민국 디지털 암호 화폐입니다.
 
-??
+훈코인 사양
 
-X13 algorithm (Pure PoW ????)
-60 seconds block targets (? 60? ?? ?? ??)
-86,400,000 total coins (? ??? 8,640? ??)
-40 coins per generated block (?? ?? 40??)
-50% subsidy decrease in 10,80000 blocks (? 10,8000???? ?? 50% ??)
-Digishield difficulty regulation (Digishield ??? ??? ??)
+X13 algorithm (Pure PoW 알고리즘)
+60 seconds block targets (매 60초마다 블럭생성)
+86,400,000 total coins (총 8,640만 코인)
+40 coins per generated block (블럭보상 40코인)
+50% subsidy decrease in 10,80000 blocks (매 10,8000블럭마다 보상 50% 감소)
+Digishield difficulty regulation (Digishield 난이도 보정)
 
-??
+포트
 
 RPC Port: 22092
 NET port: 22093
 
-????
+라이센스
 
-???? MIT ????? ?????.
-??? ??? http://opensource.org/licenses/MIT ? ??????.
+훈코인은 MIT 라이센스를 준수합니다.
+더 자세한 내용은 http://opensource.org/licenses/MIT를 참조하십시오.
 
-Copyright � 2009-2015 The Bitcoin developers
-Copyright � 2012-2015 The Peercoin developers
-Copyright � 2016 The HunCoin developers
+Copyright © 2009-2015 The Bitcoin developers
+Copyright © 2012-2015 The Peercoin developers
+Copyright © 2016 The HunCoin developers
