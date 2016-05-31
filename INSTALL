@@ -1,0 +1,9 @@
+Building HunCoin
+
+See doc/readme-qt.rst for instructions on building HunCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of HunCoin.
+
+See doc/build-*.txt for instructions on building HunCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of HunCoin.
