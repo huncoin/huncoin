@@ -5,7 +5,7 @@
 
 훈코인 사양
 
-X13 algorithm (Pure PoW 알고리즘)
+X13 algorithm (X13 알고리즘)
 60 seconds block targets (매 60초마다 블럭생성)
 86,400,000 total coins (총 8,640만 코인)
 40 coins per generated block (블럭보상 40코인)
