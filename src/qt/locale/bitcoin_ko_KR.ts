@@ -409,12 +409,12 @@ MIT/X11 소프트웨어 라이선스에 따라, 첨부파일의 COPYING 또는 h
     <message>
         <location line="+285"/>
         <source>Importing blocks from disk...</source>
-        <translation>디스크에서 블럭을 가져옵니다...</translation>
+        <translation>디스크에서 블록을 가져옵니다...</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Reindexing blocks on disk...</source>
-        <translation>디스크의 블럭을 재색인합니다...</translation>
+        <translation>디스크의 블록을 재색인합니다...</translation>
     </message>
     <message>
         <location line="-347"/>
@@ -548,17 +548,17 @@ MIT/X11 소프트웨어 라이선스에 따라, 첨부파일의 COPYING 또는 h
     <message>
         <location line="+22"/>
         <source>No block source available...</source>
-        <translation>가용 블럭 소스를 찾을 수 없습니다...</translation>
+        <translation>블록 소스를 찾을 수 없습니다...</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Processed %1 of %2 (estimated) blocks of transaction history.</source>
-        <translation>%1 / %2 블럭 동기화 중.</translation>
+        <translation>%1 / %2 블록 동기화 중.</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Processed %1 blocks of transaction history.</source>
-        <translation>%1 블럭이 동기화 되었습니다.</translation>
+        <translation>%1 블록이 동기화 되었습니다.</translation>
     </message>
     <message numerus="yes">
         <location line="+20"/>
@@ -589,7 +589,7 @@ MIT/X11 소프트웨어 라이선스에 따라, 첨부파일의 COPYING 또는 h
     <message>
         <location line="+14"/>
         <source>Last received block was generated %1 ago.</source>
-        <translation>마지막 블럭은 %1 전에 생성되었습니다.</translation>
+        <translation>마지막 블록은 %1 전에 생성되었습니다.</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -1197,22 +1197,22 @@ Address: %4
     <message>
         <location line="+23"/>
         <source>Block chain</source>
-        <translation>블럭체인</translation>
+        <translation>블록체인</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Current number of blocks</source>
-        <translation>현재 블럭</translation>
+        <translation>현재 블록</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Estimated total blocks</source>
-        <translation>예상 총 블럭</translation>
+        <translation>예상 총 블록</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Last block time</source>
-        <translation>최신 블럭 시간</translation>
+        <translation>최신 블록 시간</translation>
     </message>
     <message>
         <location line="+52"/>
@@ -1662,7 +1662,7 @@ Address: %4
     <message>
         <location line="+1"/>
         <source>[testnet]</source>
-        <translation>[태스트넷]</translation>
+        <translation>[테스트넷]</translation>
     </message>
 </context>
 <context>
@@ -1696,7 +1696,7 @@ Address: %4
         <location line="+7"/>
         <source>, broadcast through %n node(s)</source>
         <translation>
-            <numerusform>, %n 노드 송출중</numerusform>
+            <numerusform>, %n 노드(들) 송출중</numerusform>
         </translation>
     </message>
     <message>
@@ -1751,7 +1751,7 @@ Address: %4
         <location line="-102"/>
         <source>matures in %n more block(s)</source>
         <translation>
-            <numerusform>%n 블럭 후 승인</numerusform>
+            <numerusform>%n 블록(들) 후 승인</numerusform>
         </translation>
     </message>
     <message>
@@ -1795,7 +1795,7 @@ Address: %4
     <message>
         <location line="+3"/>
         <source>Generated coins must mature 120 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-        <translation>채굴 보상은 사용하기 위해 120 회의 승인이 필요합니다. 당신의 획득 보상은 네트워크 블럭체인에 동기화 되어야 합니다. 블럭 체인에서의 승인에 실패하게 되면 &quot;거부됨&quot; 상태가 되며 보상이 지불되지 않습니다. 다른 노드가 짧은 시차를 두고 블럭을 생성하였을 경우에 이러한 경우가 발생할 수 있습니다.</translation>
+        <translation>채굴 보상은 사용하기 위해 120 회의 승인이 필요합니다. 당신의 획득 보상은 네트워크 블록체인에 동기화 되어야 합니다. 블록 체인에서의 승인에 실패하게 되면 &quot;거부됨&quot; 상태가 되며 보상이 지불되지 않습니다. 다른 노드가 짧은 시차를 두고 블록을 생성하였을 경우에 이러한 경우가 발생할 수 있습니다.</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1836,7 +1836,7 @@ Address: %4
         <location line="-35"/>
         <source>Open for %n more block(s)</source>
         <translation>
-            <numerusform>%n 블럭을 위해 개방</numerusform>
+            <numerusform>%n 블록(들)을 위해 개방</numerusform>
         </translation>
     </message>
     <message>
@@ -1884,7 +1884,7 @@ Address: %4
         <location line="+57"/>
         <source>Open for %n more block(s)</source>
         <translation>
-            <numerusform>%n 블럭을 위해 개방</numerusform>
+            <numerusform>%n 블록(들)을 위해 개방</numerusform>
         </translation>
     </message>
     <message>
@@ -1911,13 +1911,13 @@ Address: %4
         <location line="+8"/>
         <source>Mined balance will be available when it matures in %n more block(s)</source>
         <translation>
-            <numerusform>채굴 보상은 %n 블럭 이후 활성화 됩니다</numerusform>
+            <numerusform>채굴 보상은 %n 블록(들) 이후 활성화 됩니다</numerusform>
         </translation>
     </message>
     <message>
         <location line="+5"/>
         <source>This block was not received by any other nodes and will probably not be accepted!</source>
-        <translation>이 블럭은 다른 노드에 의해 수신되지 않았으며 거절될 것입니다!</translation>
+        <translation>이 블록은 다른 노드들에 의해 수신되지 않았으며 거절될 것입니다!</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1986,7 +1986,7 @@ Address: %4
         <location filename="../transactionview.cpp" line="+52"/>
         <location line="+16"/>
         <source>All</source>
-        <translation>모두</translation>
+        <translation>전체</translation>
     </message>
     <message>
         <location line="-15"/>
@@ -2415,7 +2415,7 @@ rpcpassword=%s
     <message>
         <location line="+2"/>
         <source>Block creation options:</source>
-        <translation>블럭 생성 옵션:</translation>
+        <translation>블록 생성 옵션:</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2425,7 +2425,7 @@ rpcpassword=%s
     <message>
         <location line="+3"/>
         <source>Corrupted block database detected</source>
-        <translation>손상된 블럭 데이터베이스가 검색됨</translation>
+        <translation>손상된 블록 데이터베이스가 검색됨</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2435,12 +2435,12 @@ rpcpassword=%s
     <message>
         <location line="+1"/>
         <source>Do you want to rebuild the block database now?</source>
-        <translation>블럭 데이터베이스를 다시 구축하시겠습니까?</translation>
+        <translation>블록 데이터베이스를 다시 구축하시겠습니까?</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Error initializing block database</source>
-        <translation>블럭 데이터베이스 초기화 오류</translation>
+        <translation>블록 데이터베이스 초기화 오류</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2450,12 +2450,12 @@ rpcpassword=%s
     <message>
         <location line="+1"/>
         <source>Error loading block database</source>
-        <translation>블럭 데이터베이스 불러오기 오류</translation>
+        <translation>블록 데이터베이스 불러오기 오류</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Error opening block database</source>
-        <translation>블럭 데이터베이스 열기 오류</translation>
+        <translation>블록 데이터베이스 열기 오류</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2480,37 +2480,37 @@ rpcpassword=%s
     <message>
         <location line="+1"/>
         <source>Failed to read block info</source>
-        <translation>블럭 정보 로드 실패</translation>
+        <translation>블록 정보 읽기 실패</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Failed to read block</source>
-        <translation>블럭 로드 실패</translation>
+        <translation>블록 읽기 실패</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Failed to sync block index</source>
-        <translation>블럭 인덱스 동기화 실패</translation>
+        <translation>블록 인덱스 동기화 실패</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Failed to write block index</source>
-        <translation>블럭 인덱스 기록 실패</translation>
+        <translation>블록 인덱스 기록 실패</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Failed to write block info</source>
-        <translation>블럭 정보 기록 실패</translation>
+        <translation>블록 정보 쓰기 실패</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Failed to write block</source>
-        <translation>블럭 쓰기 실패</translation>
+        <translation>블록 쓰기 실패</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Failed to write file info</source>
-        <translation>파일 정보 기록 실패</translation>
+        <translation>파일 정보 쓰기 실패</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2540,12 +2540,12 @@ rpcpassword=%s
     <message>
         <location line="+2"/>
         <source>How many blocks to check at startup (default: 288, 0 = all)</source>
-        <translation>시작시 검사할 블럭 수 (기본값: 288, 0 = 전수검사)</translation>
+        <translation>시작시 검사할 블록 수 (기본값: 288, 0 = 전수검사)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>How thorough the block verification is (0-4, default: 3)</source>
-        <translation>블럭 검증 심층화 (0-4, 기본값: 3)</translation>
+        <translation>블록 검증 심층화 (0-4, 기본값: 3)</translation>
     </message>
     <message>
         <location line="+19"/>
@@ -2555,7 +2555,7 @@ rpcpassword=%s
     <message>
         <location line="+8"/>
         <source>Rebuild block chain index from current blk000??.dat files</source>
-        <translation>blk000??.dat 파일로 부터 블럭체인 재생성</translation>
+        <translation>blk000??.dat 파일로 부터 블록 체인 재생성</translation>
     </message>
     <message>
         <location line="+16"/>
@@ -2565,7 +2565,7 @@ rpcpassword=%s
     <message>
         <location line="+26"/>
         <source>Verifying blocks...</source>
-        <translation>블럭 검증...</translation>
+        <translation>블록 검증...</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2575,7 +2575,7 @@ rpcpassword=%s
     <message>
         <location line="-69"/>
         <source>Imports blocks from external blk000??.dat file</source>
-        <translation>외부 blk000??.dat 파일로 부터 블럭을 가져옵니다</translation>
+        <translation>외부 blk000??.dat 파일로 부터 블록을 가져옵니다</translation>
     </message>
     <message>
         <location line="-76"/>
@@ -2620,7 +2620,7 @@ rpcpassword=%s
     <message>
         <location line="+2"/>
         <source>Only accept block chain matching built-in checkpoints (default: 1)</source>
-        <translation>내장 체크포인트와 일치하는 블럭체인만 승인 (기본값: 1)</translation>
+        <translation>내장 체크포인트와 일치하는 블록체인만 승인 (기본값: 1)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2665,12 +2665,12 @@ rpcpassword=%s
     <message>
         <location line="+5"/>
         <source>Set maximum block size in bytes (default: 250000)</source>
-        <translation>최대 블럭크기를 바이트로 지정 (기본값: 250000)</translation>
+        <translation>최대 블록크기를 바이트로 지정 (기본값: 250000)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Set minimum block size in bytes (default: 0)</source>
-        <translation>최소 블럭크기를 바이트로 지정 (기본값: 0)</translation>
+        <translation>최소 블록크기를 바이트로 지정 (기본값: 0)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2765,7 +2765,7 @@ rpcpassword=%s
     <message>
         <location line="-120"/>
         <source>Execute command when the best block changes (%s in cmd is replaced by block hash)</source>
-        <translation>최적 블럭이 갱신될 때 명령 실행 (%s cmd 는 블럭해쉬로 대체됨)</translation>
+        <translation>최적 블록이 갱신될 때 명령 실행 (%s cmd 는 블록해쉬로 대체됨)</translation>
     </message>
     <message>
         <location line="+147"/>
@@ -2780,7 +2780,7 @@ rpcpassword=%s
     <message>
         <location line="-12"/>
         <source>Rescan the block chain for missing wallet transactions</source>
-        <translation>누락된 거래를 찾기 위해 블럭체인 재검색</translation>
+        <translation>누락된 거래를 찾기 위해 블록체인 재검색</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -2890,7 +2890,7 @@ rpcpassword=%s
     <message>
         <location line="+10"/>
         <source>Loading block index...</source>
-        <translation>블럭 인덱스 로딩...</translation>
+        <translation>블록 인덱스 로딩...</translation>
     </message>
     <message>
         <location line="-57"/>
