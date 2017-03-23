@@ -3,8 +3,11 @@
 훈코인은 Pure PoW 기반의 X13 알고리즘을 사용하는
 대한민국 디지털 암호 화폐입니다.
 
-훈코인 사양
+훈코인 사양 
 
+Name : HunCoin
+Symbol : HNC
+Type : Pure Pow
 X13 algorithm (X13 알고리즘)
 60 seconds block targets (매 60초마다 블록생성)
 86,400,000 total coins (총 8,640만 코인)
