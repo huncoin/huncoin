@@ -1,11 +1,14 @@
-공식 웹사이트 http://www.huncoin.org
+공식 웹사이트 Official Website http://www.huncoin.org
 
 훈코인은 Pure PoW 기반의 X13 알고리즘을 사용하는
 대한민국 디지털 암호 화폐입니다.
 
+HunCoin is based on Pure Pow with X13 Algorithm.
+And It's Corea localized Coin.
+
 Motto : Hunminjeongeum.
 
-훈코인 사양 
+훈코인 사양 Coin Spec.
 
 Name : HunCoin
 Symbol : HNC
@@ -19,7 +22,7 @@ Digishield difficulty regulation (Digishield 난이도 보정)
 Premine : None 
 IPO : None
 
-포트
+포트 Port
 
 RPC Port: 22092
 NET port: 22093
@@ -37,10 +40,13 @@ IPv6
 2400:6180:0:d0::6e0:f001
 2001:19f0:7001:d00:5400:00ff:fe5e:3760
 
-라이센스
+라이센스 License
 
 훈코인은 MIT 라이센스를 준수합니다.
 더 자세한 내용은 http://opensource.org/licenses/MIT를 참조하십시오.
+
+HunCoin is released under the terms of the MIT license.
+See http://opensource.org/licenses/MIT for more information.
 
 Copyright © 2009-2015 The Bitcoin developers
 Copyright © 2012-2015 The Peercoin developers
